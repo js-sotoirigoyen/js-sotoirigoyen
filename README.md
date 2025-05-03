@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Juan!
+- 🔭 I’m currently working on expanding my CS toolbelt. 
+- 🌱 I’m currently learning about HTML, CSS, and JavaScript.
+- 👯 I’m looking to collaborate on just about anything! I'd love the practice.
+- 🤔 I’m looking for help with figuring out what it is that I don't know that I don't know.
+- 💬 Ask me about anything! I'm a chatty guy. I love games, be they video games or board games, and I especially love reading literature. 
+- 📫 How to reach me: Send me an email! 
+- 😄 Pronouns: He/him, thanks.
+- ⚡ Fun fact: I used to be able to recite the entirety of *Cars* (2006) by heart!
 
 <!--
 **js-sotoirigoyen/js-sotoirigoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
